@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>480</x>
+      <y>270</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Point2D
+--
+-x: Float
+-y: Float
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>270</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Point3D
+--
+-x: Float
+-y: Float
+-z: Float
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>620</x>
+      <y>270</y>
+      <w>100</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Line2D
+--
+-a: Float
+-b: Float
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
